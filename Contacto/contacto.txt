@@ -1,1 +1,6 @@
 Formulario de contacto
+
+Nombre
+Apellido
+Mail
+Mensaje

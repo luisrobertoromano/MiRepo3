@@ -1,1 +1,3 @@
 Galeria de imagenes
+
+Imagen 1 imagen 2 imagen 3
